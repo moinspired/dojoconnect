@@ -1,0 +1,29 @@
+
+/* Base Styles -------------------- */
+* {
+  box-sizing: border-box;
+}
+
+
+/* Header --------------------- */
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 0px solid #eee;
+}
+
+
+
+/* Main Styles --------------------- */
+
+.body {
+	color: #004080;
+}
+.wrapper_background{
+	background: blue;
+}
+
+body {
+	background-color: #3c4b5b;
+}
